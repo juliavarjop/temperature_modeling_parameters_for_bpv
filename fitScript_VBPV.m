@@ -1,11 +1,8 @@
 
-% Version 2
-% Modification to previous version (fitScript_v1): 
-    % Wind direction filter added 
-    % fmincon modified [fitCoeffs,fval,exitflag,output,lambda,grad,hessian]
+% Script to find the optimized convective heat transfer coefficient for the VBPV panel
 
 % Folder
-pathFolder ='.\paramOptimization_for_VBPV_v2';
+pathFolder ='';
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
